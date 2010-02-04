@@ -1,5 +1,0 @@
-C:\Projects\SandR\src\bin\Debug\SandR.exe
-C:\Projects\SandR\src\bin\Debug\SandR.pdb
-C:\Projects\SandR\src\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\SandR\src\obj\Debug\SandR.exe
-C:\Projects\SandR\src\obj\Debug\SandR.pdb
