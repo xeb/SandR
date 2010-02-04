@@ -1,0 +1,11 @@
+SandR is a Windows Search and Replace tool.  It is very dangerous & could cause you grief if you are stupid about it.
+It will search & replace any text specified in the 2 arguments that are passed to it within the current directory.
+
+Example:
+
+I want to replace all occurrances of "Dog" with "Cat", I would simply do:
+
+C:\>sandr Dog Cat
+
+That's it!  SandR is case sensitive.
+
